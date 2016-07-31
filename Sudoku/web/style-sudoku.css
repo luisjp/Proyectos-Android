@@ -1,0 +1,217 @@
+
+h1 {
+    color: #8279E7;
+    text-align: center;
+}
+h2 {
+    font-family: Arial;
+    text-align: center;
+}
+h3 {
+    background-color: #00D9A3;
+    border: 2px outset #000000;
+    bottom: 232px;
+    left: 84px;
+    position: absolute;
+    width: 58px;
+}
+.control-text {
+    color: #0000FF;
+    font-size: 18px;
+    padding-left: 9px;
+}
+body {
+    background-color: #8279E7;
+    font-family: Arial;
+}
+#container {
+    background-color: #E0F8E0;
+    box-shadow: 0 1px 5px 0 #000000;
+    display: table;
+    margin: 0 auto;
+    position: relative;
+    transition: all 0.3s ease 0s;
+    width: auto;
+}
+#entrada {
+    margin: 0 auto;
+    padding-bottom: 29px;
+    padding-top: 29px;
+    width: 65%;
+}
+#entrada #foto1 {
+    display: inline-block;
+    margin-right: 1%;
+    padding: 0;
+}
+#entrada #form {
+    display: inline-block;
+    margin-right: 1%;
+    padding: 0;
+    vertical-align: top;
+}
+#entrada #foto2 {
+    display: inline-block;
+    margin-right: 1%;
+    padding: 0;
+}
+.fotos {
+    border-radius: 13px;
+    height: 200px;
+    width: 200px;
+}
+#header {
+    border-bottom: 6px solid #860059;
+}
+#entrada .register {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 2px solid #5858FA;
+    display: none;
+    height: auto;
+    margin-top: 8px;
+    width: 96%;
+}
+#container .form2 {
+    float: left;
+    margin: 15px auto;
+    position: relative;
+    width: auto;
+}
+table .bord {
+    border-bottom: 2px solid #000000;
+}
+table .col {
+    border-right: 2px solid #000000;
+}
+table tr td {
+    width: 30px;
+}
+table tr input[type="text"] {
+    font-size: 30px;
+    height: 30px;
+    text-align: center;
+    width: 30px;
+}
+table {
+    border-color: #0000FF;
+    border-style: double;
+    border-width: 5px;
+    margin: 0 auto;
+}
+.button {
+    background-color: #79BBFF;
+    border: 1px solid #84BBF3;
+    border-radius: 0;
+    box-shadow: -13px 1px 15px -16px #BBDAF7 inset;
+    color: #FFFFFF;
+    display: inline-block;
+    font-family: Verdana;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: bold;
+    height: 32px;
+    line-height: 40px;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0;
+    text-shadow: 1px 1px 0 #528ECC;
+    width: 90px;
+}
+.button:hover {
+    background-color: #378DE5;
+}
+.button:active {
+    position: relative;
+    top: 1px;
+}
+#container #control {
+    float: left;
+    height: 261px;
+    margin-right: 115px;
+    margin-top: 37px;
+    width: 220px;
+}
+#container .control {
+    background-color: #00D9A3;
+    box-shadow: 3px 5px 6px -2px;
+}
+#container #top {
+    float: right;
+    height: 261px;
+    margin-bottom: 39px;
+    margin-left: 68px;
+    margin-top: 114px;
+    position: relative;
+    width: 220px;
+}
+#container .top {
+    background-color: #00D9A3;
+    box-shadow: 3px 5px 6px -2px;
+}
+#container #Comenzar {
+    left: 37px;
+    position: relative;
+    top: 17px;
+    width: 0;
+}
+#container #comprobar {
+    bottom: -17px;
+    left: 177px;
+    position: absolute;
+    width: 0;
+    z-index: 99999999;
+}
+#container .tiempo {
+    font-size: 57px;
+    position: absolute;
+    right: 160px;
+    top: 111px;
+    width: 15px;
+}
+input[type="button"] {
+    background-color: #00BFFF;
+    border-radius: 7px;
+    box-shadow: 1px 1px 1px 1px;
+    font-family: Helvetica;
+    font-size: 12px;
+    font-weight: bold;
+    height: 31px;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0;
+    width: 93px;
+}
+input[type="submit"] {
+    background-color: #00BFFF;
+    border-radius: 7px;
+    box-shadow: 1px 1px 1px 1px;
+    font-family: Helvetica;
+    font-size: 12px;
+    font-weight: bold;
+    height: 31px;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0;
+    width: 93px;
+}
+#top p {
+    background-color: #73FFB9;
+    font-size: 22px;
+    padding-left: 11px;
+}
+
+#top .top5{
+    border-style: none;
+    width: 220px;
+    margin-top: 18px;
+}
+#top .top5 tr td{ 
+    text-align: center;
+       background-color: #73FFB9;
+    font-size: 22px;
+    padding-left: 11px;
+}
+
+#top .top5 tr{
+    height: 30px;
+}
